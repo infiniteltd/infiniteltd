@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @infiniteltd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I am Chris Ogbodo
+- 👀 I’m interested in presently in Frontend Development. My long term goal is to become a great fullstack software engineer
+- 🌱 I’m currently learning ReactJs and other interesting frameworks.
+- 💞️ I’m looking to collaborate on open source projects. Code or no-code.
+- 📫 How to reach me email; chrisogbodo24@gmail.com
 
 <!---
 infiniteltd/infiniteltd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
