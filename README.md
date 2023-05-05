@@ -1,4 +1,4 @@
-- 👋 Hi, I am Chris Ogbodo
+- 👋 Hi, I am Chris Sampson
 - 👀 I’m interested in presently in Frontend Development. My long term goal is to become a great fullstack software engineer
 - 🌱 I’m currently learning ReactJs and other interesting frameworks.
 - 💞️ I’m looking to collaborate on open source projects. Code or no-code.
