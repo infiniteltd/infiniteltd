@@ -2,7 +2,7 @@
 - 👀 I am currently focused on Frontend Development. My long term goal is to become a great fullstack software engineer
 - 🌱 I’m currently learning ReactJs and other interesting frameworks.
 - 💞️ I’m looking to collaborate on open source projects. Code or no-code.
-- 📫 How to reach me email; chrissamps24@gmail.com
+- 📫 How to reach me email; chrisogbodo24@gmail.com
 - [![An image of @infiniteltd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/infiniteltd)](https://holopin.io/@infiniteltd)
 
 <!---
